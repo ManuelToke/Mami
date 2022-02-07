@@ -153,7 +153,7 @@ header .textos-header {
  }
 
 .razones{
-	margin-left: 90px;
+	margin-left: 40px;
 }
 
 .text__razones span{
@@ -232,11 +232,12 @@ header .textos-header {
 
     .about-us{
         margin-bottom: 60px;
-        width: 99%;
+        width: 50%;
     }
 
    .contenedor-razones, .contenido-textos{
-        width: 95%;
+        width: 90%;
+        font-size: 12px;
     }
 
     /* Clients */
